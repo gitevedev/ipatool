@@ -10,7 +10,7 @@ import (
 	"golang.org/x/net/context"
 )
 
-var version = "dev"
+var version = "3.0.0-eve-fix-2042"
 
 func rootCmd() *cobra.Command {
 	var (
